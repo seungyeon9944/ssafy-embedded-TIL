@@ -1,7 +1,7 @@
 ## Socket 통신
 Socket을 이용해, **서버-클라이언트** 간 데이터를 주고받는 양방향 연결 지향성 통신
 
-![Socket 통신](https://i.imgur.com/iBCStLL.png)
+![Socket 통신](https://i.imgur.com/oSGfc9k.png)
 - Socket을 이용해 통신한다
 - 사용하는 프로토콜은 TCP/IP이다
 - 한 쪽은 Server / 다른 한 쪽은 Client
