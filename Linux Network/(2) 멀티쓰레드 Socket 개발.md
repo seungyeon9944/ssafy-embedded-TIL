@@ -321,7 +321,7 @@ int main(int argc, char *argv[]){
     return 0;
 }
 ```
-- 각각의 Thread는 종료되면 **자원 정리를 위해 `join` 필수
+- 각각의 Thread는 종료되면 **자원 정리를 위해 `join` 필수**
     ```C
     pthread_create(&send_tid, NULL, sendMsg, NULL);
     pthread_create(&receive_tid, NULL, receiveMsg, NULL);
